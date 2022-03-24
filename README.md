@@ -7,6 +7,12 @@ pela Alura oferecida pelo Projeto Oracle Next Education.
 
 📒 Sou apaixonada por tecnologia, livros e comida.
 
+👩‍💻 Habilidades: BREVE.
+
+📚 Aprendizado: BREVE.
+
+💻 Ferramentas: Git, GitHub.
+
 📌 Segue as minhas redes sociais!
 
 Instagram:https://www.instagram.com/ellamarcolino/ 📱

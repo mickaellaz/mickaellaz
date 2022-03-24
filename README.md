@@ -8,5 +8,7 @@ pela Alura oferecida pelo Projeto Oracle Next Education.
 📒 Sou apaixonada por tecnologia, livros e comida.
 
 📌 Segue as minhas redes sociais!
+
 Instagram:https://www.instagram.com/ellamarcolino/ 📱
+
 Twitch: https://www.twitch.tv/fadadasflores 🖥

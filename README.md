@@ -1,15 +1,14 @@
 🖐 Olá mundo, esse é meu github! (obviously) 🖐
 
-👉 Estou começando tecnologia agora com Desenvolvedora FullStack em Formação 
-pela Alura oferecida pelo Projeto Oracle Next Education.
+👉 Olá, meu nome é Mickaella, atualmente curso Analise e Desenvolvimento de Sistemas,encontrei meu proposito na área de TI decidi cursar Analise e Desenvolvimento de Sistemas.
 
 👩 Tenho 23 anos, moro no Espirito Santo. (She/Her)
 
-📒 Sou apaixonada por tecnologia, livros e comida.
+📒 Sou apaixonada por tecnologia, livros e gatos.
 
-👩‍💻 Habilidades: BREVE.
+👩‍💻 Habilidades: EM BREVE.
 
-📚 Aprendizado: BREVE.
+📚 Aprendizado: QA, JAVA, JAVASCRIPT, PHYTHON, CYBERSEGURITY.
 
 💻 Ferramentas: Git, GitHub.
 
@@ -17,4 +16,4 @@ pela Alura oferecida pelo Projeto Oracle Next Education.
 
 Instagram: https://www.instagram.com/ellamarcolino/ 📱
 
-Twitch: https://www.twitch.tv/fadadasflores 🖥
+lINKEDIN:https://www.linkedin.com/in/mickaella-marcolino-743b39162/ 🖥

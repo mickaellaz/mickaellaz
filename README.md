@@ -16,4 +16,4 @@
 
 Instagram: https://www.instagram.com/ellamarcolino/ 📱
 
-lINKEDIN:https://www.linkedin.com/in/mickaella-marcolino-743b39162/ 🖥
+linkedin: https://www.linkedin.com/in/mickaella-marcolino-743b39162/ 🖥
